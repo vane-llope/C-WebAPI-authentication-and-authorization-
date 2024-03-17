@@ -1,0 +1,6 @@
+@webAPIC__HostAddress = http://localhost:5168
+
+GET {{webAPIC__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
